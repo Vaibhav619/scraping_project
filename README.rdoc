@@ -30,3 +30,4 @@ Steps to test the application using rake task:
 * rake business_email_inquiry:download_data
 
 If you have any questions, then you can mail me at janmejay.rai31@gmail.com
+This is my added local changes to jay3126/scraping_project.
