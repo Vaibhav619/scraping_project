@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+# This is my new added line for final project.
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.2'
 # Use mysql as the database for Active Record
